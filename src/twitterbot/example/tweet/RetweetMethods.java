@@ -17,7 +17,8 @@ import twitter4j.auth.AccessToken;
  */
 public class RetweetMethods
 {
-    // This method uses 
+    // This method uses access tokens and consumer keys that are obtained by the user when they create an app at the
+    // following website https://apps.twitter.com/ which is twitter's official developer apps manager.
     static public void RetweetTweet(String id)
     {
         try
