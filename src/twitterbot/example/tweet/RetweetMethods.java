@@ -22,11 +22,11 @@ public class RetweetMethods
     {
         try
         {
-            String consumerKey = "EAnxkx1sOcS2EwoG9pcFjDwlf"; // key obtained after registering app.
-            String consumerSecret = "C2cE7VoTiAziDndwCe60sc1OdPz3PnzTbLO52l4QlnxotUvNvb"; // secret key obtained from the registered app.
-            String twitterToken = "622262310-AvIWEbJTfscAdbQ8hJavdIJrM6gtzE5LHc6kNOvh";
+            String consumerKey = ""; // key obtained after registering app.
+            String consumerSecret = ""; // secret key obtained from the registered app.
+            String twitterToken = "";
 // access_token received by authentication user's twitter account
-            String twitterSecret = "a7etCN9uvGiAtT7KXpngpyUahFiuOCRCTJLtAbqsRRpBi";
+            String twitterSecret = "";
             // access_secret obtained by authentication user's twitter account
             String tweetId = id; //messageId of the tweet to be retweeted
 
